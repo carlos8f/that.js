@@ -1,0 +1,14 @@
+{
+  "server": {
+    "port": 3000
+  },
+  "static": {
+    "root": "./public"
+  },
+  "controller": {
+    "files": "./controllers/*"
+  },
+  "view": {
+    "path": "./views"
+  }
+}

@@ -1,0 +1,12 @@
+body {
+  padding: 200px;
+  background-color: black;
+  color: white;
+  font-family: sans-serif;
+  font-size: 200%;
+}
+
+a {
+  color: red;
+  text-decoration: none;
+}

@@ -1,5 +1,5 @@
-node-that
-=========
+that.js
+=======
 
 Advanced plugin framework featuring delegated dependency injection and automatic scope management
 

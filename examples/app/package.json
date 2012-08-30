@@ -5,7 +5,7 @@
   "description": "Example app using that.js",
   "main": "server.js",
   "dependencies": {
-    "that": "~1.0.0-alpha",
+    "that": "~1.0.0",
     "middler": "~0.4.5",
     "buffet": "~0.4.3",
     "async": "~0.1.22",

@@ -1,6 +1,6 @@
 {
   "name": "that",
-  "version": "1.0.0-alpha",
+  "version": "1.0.0",
   "description": "Advanced plugin framework featuring delegated dependency injection and automatic scope management",
   "main": "that.js",
   "scripts": {

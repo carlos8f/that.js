@@ -1,0 +1,30 @@
+{
+  "name": "that",
+  "version": "1.0.0-alpha",
+  "description": "Advanced plugin framework featuring delegated dependency injection and automatic scope management",
+  "main": "that.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/carlos8f/node-that.git"
+  },
+  "keywords": [
+    "plugin",
+    "framework",
+    "delegation",
+    "dependency",
+    "injection",
+    "architecture",
+    "architect",
+    "scope",
+    "management",
+    "application"
+  ],
+  "author": "Carlos Rodriguez",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "~1.4.1"
+  }
+}

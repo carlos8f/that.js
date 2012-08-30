@@ -13,9 +13,9 @@ Node.js application. Once you use that, you won't want to go back to this!
 
 ### Features
 
-- Seamless State Sharing (tm) (SSS)
-- Global Application Awareness (tm) (GAA)
-- Evented Evolution Engine (tm) (EEE)
+- Seamless State Sharing (SSS)
+- Global Application Awareness (GAA)
+- Evented Evolution Engine (EEE)
 - Plugin-optimized Operation (POO)
 - Extremely [high performance](http://en.wikipedia.org/wiki/File:Bob-Marley-in-Concert_Zurich_05-30-80.jpg)
 

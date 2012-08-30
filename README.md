@@ -1,7 +1,7 @@
 that.js
 =======
 
-Advanced plugin framework featuring delegated dependency injection and automatic scope management
+Advanced Node.js framework featuring Evented Evolution Engine, Seamless State Sharing, and Plugin-optimized Operation
 
 [![build status](https://secure.travis-ci.org/carlos8f/node-that.png)](http://travis-ci.org/carlos8f/node-that)
 
@@ -16,7 +16,7 @@ Node.js application. Once you use that, you won't want to go back to this!
 - Seamless State Sharing (tm) (SSS)
 - Global Application Awareness (tm) (GAA)
 - Evented Evolution Engine (tm) (EEE)
-- Plugin-optimized operation (POO)
+- Plugin-optimized Operation (POO)
 - Extremely [high performance](http://en.wikipedia.org/wiki/File:Bob-Marley-in-Concert_Zurich_05-30-80.jpg)
 
 Installation

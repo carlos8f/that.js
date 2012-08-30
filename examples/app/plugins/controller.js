@@ -1,14 +1,12 @@
 var that = require('that')
   , glob = require('glob')
-  , opts
 
-that.on('attach', function (conf) {
-  opts = conf.controller || {};
+that.on('init', function (conf, done) {
+  var opts = conf.controller || {};
+  
   that.controller = that.middler;
   that.controllers = [];
-});
 
-that.on('init', function (done) {
   var search = glob(opts.files);
   search.on('match', function (file) {
     require(that.utils.path.resolve(file));

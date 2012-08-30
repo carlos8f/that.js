@@ -15,8 +15,10 @@ that.on('error', console.error);
 // Attach plugins
 that.emit('attach', require('./etc/config'));
 
-// Init
+// Init and listen
 async.series(that.listeners('init'), function (err) {
+  if (err) return that.emit('error', err);
+
   that.emit('listen', function () {
     console.log('server listening on port ' + that.server.port);
   });

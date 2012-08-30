@@ -15,7 +15,7 @@ Node.js application. Once you use that, you won't want to go back to this!
 
 - Seamless State Sharing (tm) (SSS)
 - Global Application Awareness (tm) (GAA)
-- Evented Event Engine (tm) (EEE)
+- Evented Evolution Engine (tm) (EEE)
 - Plugin-optimized operation (POO)
 - Extremely [high performance](http://en.wikipedia.org/wiki/File:Bob-Marley-in-Concert_Zurich_05-30-80.jpg)
 
@@ -39,6 +39,8 @@ var that = require('that');
 // use that...
 ```
 
+By requiring that, your plugins will share the Global Application Awareness (GAA).
+
 That's it!
 
 ### That for plugins
@@ -60,7 +62,8 @@ To write your plugin, just interact with that!
 API
 ---
 
-That is an [EventEmitter](http://nodejs.org/api/events.html#events_class_events_eventemitter).
+That's Evented Evolution Engine (EEE) is based on the well-tested Node.js core
+[EventEmitter](http://nodejs.org/api/events.html#events_class_events_eventemitter).
 Study that!
 
 Example application

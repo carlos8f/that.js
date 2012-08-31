@@ -1,6 +1,6 @@
 {
   "name": "that",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Advanced Node.js framework featuring Evented Evolution Engine, Seamless State Sharing, and Plugin-optimized Operation",
   "main": "that.js",
   "scripts": {

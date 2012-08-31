@@ -1,14 +1,14 @@
 {
   "name": "that",
-  "version": "1.0.0",
-  "description": "Advanced plugin framework featuring delegated dependency injection and automatic scope management",
+  "version": "1.0.1",
+  "description": "Advanced Node.js framework featuring Evented Evolution Engine, Seamless State Sharing, and Plugin-optimized Operation",
   "main": "that.js",
   "scripts": {
     "test": "make test"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/carlos8f/node-that.git"
+    "url": "git://github.com/carlos8f/that.js.git"
   },
   "keywords": [
     "plugin",
@@ -20,7 +20,10 @@
     "architect",
     "scope",
     "management",
-    "application"
+    "application",
+    "state",
+    "event",
+    "bacon-engine"
   ],
   "author": "Carlos Rodriguez",
   "license": "MIT",

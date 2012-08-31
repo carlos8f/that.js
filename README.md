@@ -1,9 +1,10 @@
 that.js
 =======
 
-Advanced Node.js framework featuring Evented Evolution Engine, Seamless State Sharing, and Plugin-optimized Operation
+Advanced Node.js framework featuring Evented Evolution Engine, Seamless State
+Sharing, and Plugin-optimized Operation
 
-[![build status](https://secure.travis-ci.org/carlos8f/node-that.png)](http://travis-ci.org/carlos8f/node-that)
+[![build status](https://secure.travis-ci.org/carlos8f/that.js.png)](http://travis-ci.org/carlos8f/that.js)
 
 What is that?
 -------------

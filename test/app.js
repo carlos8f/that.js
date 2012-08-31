@@ -2,9 +2,10 @@ var assert = require('assert')
   , http = require('http')
   , spawn = require('child_process').spawn
   , resolve = require('path').resolve
+  , parseUrl = require('url').parse
 
 function get (url, cb) {
-  http.get(url, function (res) {
+  http.get(parseUrl(url), function (res) {
     var data = '';
     res.once('error', cb);
     res.on('data', function (chunk) {
